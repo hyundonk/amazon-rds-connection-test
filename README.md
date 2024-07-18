@@ -1,7 +1,11 @@
 # amazon-rds-connection-test
 Sample spring-boot application which connect Amazon RDS for mySQL to test TLS encryption
 
+AWS JDBC Driver for MySQL supports fast failover for Amazon Aurora with MySQL compatibility. The AWS JDBC driver for MySQL can be used only with MySQL databases or MySQL-compatible Amazon RDS and Amazon Aurora clusters.
 
+The current maintenance window for the AWS JDBC Driver for MySQL ends on July 25, 2024, and it is recommended to migrate to the AWS JDBC Driver before that date.
+
+https://github.com/awslabs/aws-mysql-jdbc
 
 ### Pre-requisites
 
