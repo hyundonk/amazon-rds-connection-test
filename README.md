@@ -3,7 +3,7 @@ Sample spring-boot application which connect Amazon RDS for mySQL to test TLS en
 
 
 
-### Pre-requsites
+### Pre-requisites
 
 Create a Amazon RDS database for mySQL instance. Declare environment variables below
 
